@@ -48,30 +48,18 @@ Passionate about transforming raw data into actionable insights. I work at the i
 
 ---
 
-## 📂 Featured Projects
 
-### 🔹 [Project Name 1](https://github.com/KshamaDaddi)
-> *Replace with your project description — what problem it solves, what techniques/models you used, and key results.*
->
-> `Python` `scikit-learn` `Pandas` `Machine Learning`
+## 📊 GitHub Stats
+![Kshama's GitHub stats](https://github-readme-stats.vercel.app/api?username=KshamaDaddi&show_icons=true&theme=tokyonight)
 
+## 🚀 Featured Projects
+| Project | Tech | Description |
+|---------|------|-------------|
+| [AI Agent (Google ADK)](link) | Python, LLM | Multi-step reasoning agent with memory & tools |
+| [Image Animation](link) | TF, OpenCV | Deep learning motion transfer pipeline |
+| [Traffic Sign CNN](link) | CNN, TensorFlow | Real-time multiclass detection system |
 ---
 
-### 🔹 [Project Name 2](https://github.com/KshamaDaddi)
-> *Replace with your project description — what problem it solves, what techniques/models you used, and key results.*
->
-> `Python` `TensorFlow` `Deep Learning` `Data Visualization`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KshamaDaddi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshamaDaddi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
