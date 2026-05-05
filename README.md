@@ -48,8 +48,6 @@ Passionate about transforming raw data into actionable insights. I work at the i
 ---
 
 
-## 📊 GitHub Stats
-![Kshama's GitHub stats](https://github-readme-stats.vercel.app/api?username=KshamaDaddi&show_icons=true&theme=tokyonight)
 
 ## 🚀 Featured Projects
 | Project | Tech | Description |
