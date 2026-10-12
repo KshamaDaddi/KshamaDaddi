@@ -1,122 +1,105 @@
-<div align="center">
+# Hi, I'm Kshama Daddi 👋
 
-# Kshama Daddi
+### AI/ML Engineer | Generative AI | Python Developer
 
-**AI/ML Engineer · GenAI Systems · RAG Pipelines · Computer Vision**
+🎓 B.E. Graduate in Artificial Intelligence and Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshamadaddi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kshamadaddi)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kshamadaddi01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshamadaddi01@gmail.com)
+I'm passionate about building practical AI applications using Machine Learning, Generative AI, Computer Vision, and Python. I enjoy turning ideas into working projects, exploring new technologies, and strengthening my software engineering skills through hands-on development.
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-GenAI%20%7C%20RAG%20%7C%20LLMs%20%7C%20CV-blueviolet?style=for-the-badge)
-
-</div>
-
----
-
-## 🧠 About Me
-
-BE graduate in **Artificial Intelligence & Data Science** from KLE College of Engineering & Technology (VTU). I build production-grade AI systems — from RAG-based document intelligence to computer vision pipelines and multilingual GenAI applications.
-
-- 🔭 Currently building: RAG systems, Agentic AI pipelines, and GenAI-powered applications
-- 🎯 Target roles: **AI/ML Engineer · Data Scientist · GenAI Engineer**
-- 🏅 Certified: **Oracle OCI Generative AI Professional** | **Oracle OCI DevOps Professional** | **Google ADK**
-- 🌍 Based in **Bengaluru, India** | Open to remote opportunities
-- 💬 Ask me about: LangChain, RAG architectures, vector databases, LLM fine-tuning, CV pipelines
+My goal is to build reliable, useful AI solutions while continuously improving my understanding of machine learning fundamentals and real-world application development.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Stack | What It Does |
-|---|---|---|
-| [🤖 RetrievalDocBot](https://github.com/KshamaDaddi/RetrievalDocBot) | LangChain · FAISS · OpenAI · Streamlit | RAG-based PDF chatbot with semantic chunking, vector retrieval, and conversational memory |
-| [🏥 ASHA-AI](https://github.com/KshamaDaddi/ASHA-AI) | Whisper · IndicTrans2 · Llama · ONNX | Offline multilingual clinical triage assistant for rural India — works without internet |
-| [🔍 Document Forgery Detection](https://github.com/KshamaDaddi/document-forgery-detection) | OpenCV · CNN · Python | Automated forgery detection system for NBFCs and cooperative banks |
-| [📊 AI Customer Intelligence](https://github.com/KshamaDaddi/ai-customer-intelligence) | LangChain · Clustering · Streamlit | GenAI-powered customer segmentation with natural language insight querying |
-| [🚦 Traffic Sign CNN](https://github.com/KshamaDaddi/traffic-sign-cnn) | TensorFlow · CNN · OpenCV | 43-class real-time traffic sign recognition — built during Innovate Intern internship |
-| [🎞️ Image Animation Pipeline](https://github.com/KshamaDaddi/image-animation) | TensorFlow · OpenCV · Xsemble | Deep learning motion-transfer pipeline built at Acism Software internship |
+### 🤖 [RetrievalDocBot](https://github.com/KshamaDaddi/RetrievalDocBot)
+A document question-answering application that uses Retrieval-Augmented Generation (RAG) to help users retrieve information from documents.
+
+**Focus:** Generative AI · RAG · Document Processing · Semantic Search
+
+### 💰 [FinAgent-AI](https://github.com/KshamaDaddi/hackerrank-orchestrate-september26)
+A financial decision-support project focused on affordability analysis and structured, rule-based decision-making.
+
+**Focus:** Python · Financial Analysis · Decision Logic · AI Agents
+
+### 🖼️ [Realtime Image Animation](https://github.com/KshamaDaddi/Realtime_image_animation_using_deep_learning)
+A deep learning project focused on transforming images into animated artistic styles.
+
+**Focus:** Deep Learning · Computer Vision · OpenCV · ONNX Runtime
+
+### ⚙️ [ProductFlow-API](https://github.com/KshamaDaddi/ProductFlow-API)
+A REST API project for product and order management, built to practise backend development and structured application design.
+
+**Focus:** Python · FastAPI · SQLAlchemy · SQLite · API Testing
+
+### 🩺 [ASHA-AI](https://github.com/KshamaDaddi/ASHA_Ai)
+An AI-focused healthcare project exploring the application of language models and software tools to healthcare-related workflows.
+
+**Focus:** Python · AI Applications · Language Models
+
+### 🚦 Traffic Sign Recognition
+A computer vision project using a Convolutional Neural Network (CNN) to classify traffic signs.
+
+**Focus:** Python · TensorFlow · CNN · Image Classification
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+**Programming:** Python, SQL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Machine Learning:** Scikit-learn, Model Training, Data Preprocessing, Model Evaluation
 
-**AI · ML · GenAI**
+**Deep Learning & Computer Vision:** TensorFlow, CNNs, OpenCV
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**Generative AI:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain
 
-**Data & Visualization**
+**Backend Development:** FastAPI, Flask, REST APIs, SQLAlchemy
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+**Data & Visualization:** NumPy, Pandas, Matplotlib, Seaborn
 
-**Infrastructure & MLOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**Tools:** Git, GitHub, Streamlit, Jupyter Notebook
 
 ---
 
-## 🏅 Certifications
+## 💼 Experience & Learning
 
-| Certification | Issuer | Focus |
-|---|---|---|
-| 🟠 OCI Generative AI Professional | Oracle | LLMs, RAG, Vector Search on OCI |
-| 🟠 OCI DevOps Professional | Oracle | CI/CD, IaC, Cloud Deployment |
-| 🟡 Agent Development Kit (ADK) | Google | Agentic AI, Multi-step reasoning |
-
----
-
-## 💼 Internship Experience
-
-**Take It Smart OPC Pvt. Ltd.**
-> Built a RAG-based PDF chatbot using LangChain, FAISS, and OpenAI — enabling semantic document search and natural language Q&A over uploaded PDFs.
-
-**Innovate Intern**
-> Designed and trained a CNN-based traffic sign classifier achieving high accuracy across 43 classes using TensorFlow and OpenCV.
-
-**Acism Software**
-> Developed a real-time image animation pipeline using the Xsemble framework — translating static images into motion sequences using deep learning.
+- **Take It Smart (OPC) Pvt. Ltd.** — Python and Machine Learning applications.
+- **Edunet Foundation (AICTE)** — AI and Data Science internship, including traffic sign recognition.
+- **Innovate Intern** — Data Science internship, including a smart irrigation project.
+- **Google AI Agent Development Program** — AI agent development learning.
 
 ---
 
-## 📊 At a Glance
+## 🌱 Currently Improving
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=KshamaDaddi&color=blueviolet&style=flat-square&label=Profile+Views)
-![Repos](https://img.shields.io/badge/Public%20Repos-12-blue?style=flat-square&logo=github)
-![Certs](https://img.shields.io/badge/Certifications-3-gold?style=flat-square)
-![Internships](https://img.shields.io/badge/Internships-3-green?style=flat-square)
-
-</div>
+- Machine Learning fundamentals and model evaluation
+- Python programming, OOP, and problem-solving
+- Generative AI and RAG application development
+- FastAPI, database integration, and backend engineering
+- Writing clean, modular, and testable Python code
 
 ---
 
-<div align="center">
+## 🎯 Career Interests
 
-*"Building AI systems that solve real problems — one model at a time."*
+I'm interested in entry-level opportunities in:
 
-⭐ If you find any of my projects useful, a star goes a long way!
+- AI/ML Engineering
+- Generative AI Engineering
+- Machine Learning
+- Python Development
 
-</div>
+I'm particularly interested in opportunities where I can contribute to practical projects, learn from experienced engineers, and grow as a developer.
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Kshama Daddi](https://www.linkedin.com/in/kshamadaddi)
+- 📊 Kaggle: [kshamadaddi](https://www.kaggle.com/kshamadaddi)
+- 💻 GitHub: [KshamaDaddi](https://github.com/KshamaDaddi)
+
+---
+
+⭐ I believe in learning by building, understanding the fundamentals, and improving through consistent practice.
