@@ -12,17 +12,17 @@ My goal is to build reliable, useful AI solutions while continuously improving m
 
 ## 🚀 Featured Projects
 
-### 🤖 [RetrievalDocBot](https://github.com/KshamaDaddi/RetrievalDocBot)
+### 🤖 [https://github.com/KshamaDaddi/RetrievalDocBot-RAG-Based-PDF-Chatbot)
 A document question-answering application that uses Retrieval-Augmented Generation (RAG) to help users retrieve information from documents.
 
 **Focus:** Generative AI · RAG · Document Processing · Semantic Search
 
-### 💰 [FinAgent-AI](https://github.com/KshamaDaddi/hackerrank-orchestrate-september26)
+### 💰 [https://github.com/KshamaDaddi/hackerrank-orchestrate-september26)
 A financial decision-support project focused on affordability analysis and structured, rule-based decision-making.
 
 **Focus:** Python · Financial Analysis · Decision Logic · AI Agents
 
-### 🖼️ [Realtime Image Animation](https://github.com/KshamaDaddi/Realtime_image_animation_using_deep_learning)
+### 🖼️ [https://github.com/KshamaDaddi/Realtime_image_animation_using_deep_learning)
 A deep learning project focused on transforming images into animated artistic styles.
 
 **Focus:** Deep Learning · Computer Vision · OpenCV · ONNX Runtime
@@ -37,7 +37,7 @@ An AI-focused healthcare project exploring the application of language models an
 
 **Focus:** Python · AI Applications · Language Models
 
-### 🚦 Traffic Sign Recognition
+### 🚦 [Traffic Sign Recognition](https://github.com/KshamaDaddi/TrafficSign)
 A computer vision project using a Convolutional Neural Network (CNN) to classify traffic signs.
 
 **Focus:** Python · TensorFlow · CNN · Image Classification
