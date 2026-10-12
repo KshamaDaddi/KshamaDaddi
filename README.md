@@ -12,17 +12,17 @@ My goal is to build reliable, useful AI solutions while continuously improving m
 
 ## 🚀 Featured Projects
 
-### 🤖 [https://github.com/KshamaDaddi/RetrievalDocBot-RAG-Based-PDF-Chatbot)
+### 🤖 [RetrievalDocBot](https://github.com/KshamaDaddi/RetrievalDocBot-RAG-Based-PDF-Chatbot)
 A document question-answering application that uses Retrieval-Augmented Generation (RAG) to help users retrieve information from documents.
 
 **Focus:** Generative AI · RAG · Document Processing · Semantic Search
 
-### 💰 [https://github.com/KshamaDaddi/hackerrank-orchestrate-september26)
+### 💰 [FinAgent-AI](https://github.com/KshamaDaddi/hackerrank-orchestrate-september26)
 A financial decision-support project focused on affordability analysis and structured, rule-based decision-making.
 
 **Focus:** Python · Financial Analysis · Decision Logic · AI Agents
 
-### 🖼️ [https://github.com/KshamaDaddi/Realtime_image_animation_using_deep_learning)
+### 🖼️ [/Realtime image animation using deep learning](https://github.com/KshamaDaddi/Realtime_image_animation_using_deep_learning)
 A deep learning project focused on transforming images into animated artistic styles.
 
 **Focus:** Deep Learning · Computer Vision · OpenCV · ONNX Runtime
