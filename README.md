@@ -290,7 +290,7 @@ Repository associated with an orchestration-related challenge or project.
 
 💻 **GitHub:** [github.com/KshamaDaddi](https://github.com/KshamaDaddi)
 
-🔗 **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/kshamadaddi](https://www.linkedin.com/in/kshamadaddi)
 
 ---
 
