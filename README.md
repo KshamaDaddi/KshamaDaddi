@@ -11,6 +11,8 @@ Building practical applications using Python, AI, Machine Learning, Data Analyti
 
 [![GitHub](https://img.shields.io/badge/GitHub-KshamaDaddi-181717?style=for-the-badge&logo=github)](https://github.com/KshamaDaddi)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daddikshama@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Contact-D14836?style=for-the-badge&logo=gmail&logo=Linkedin)](https://www.linkedin.com/in/kshamadaddi)
+
 
 </div>
 
